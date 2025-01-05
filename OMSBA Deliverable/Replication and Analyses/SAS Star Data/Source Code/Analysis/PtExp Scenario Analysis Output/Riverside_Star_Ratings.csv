@@ -1,0 +1,5 @@
+PROVIDER_ID,report_indicator,Patient_Experience_cnt,Outcomes_Readmission_cnt,Outcomes_Mortality_cnt,Outcomes_Safety_cnt,Process_cnt,Total_measure_group_cnt,MortSafe_Group_cnt,cnt_grp,summary_score,star
+490037,1,8,8,5,2,9,4,1,2) # of groups=4,0.004128557748733,3.0
+490052,1,8,10,7,7,11,5,2,3) # of groups=5,-0.3073800098078312,2.0
+490130,1,8,7,5,3,9,5,2,3) # of groups=5,0.0025405199632863,3.0
+490143,1,8,7,5,3,7,5,2,3) # of groups=5,0.2648659422634565,4.0

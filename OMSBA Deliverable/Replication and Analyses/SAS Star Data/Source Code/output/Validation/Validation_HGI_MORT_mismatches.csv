@@ -1,0 +1,4 @@
+PROVIDER_ID,Hospital_Name,Address,State,report_indicator,Patient_Experience_cnt,Outcomes_Readmission_cnt,Outcomes_Mortality_cnt,Outcomes_Safety_cnt,Process_cnt,Total_measure_group_cnt,MortSafe_Group_cnt,cnt_grp,summary_score,star,HGI_MORT,HGI_SAFETY,HGI_READM,HGI_PAT_EXP,HGI_PROCESS,HGI_MORT_diff
+160005,ST ANTHONY REGIONAL HOSPITAL & NURSING HOME,311 SOUTH CLARK STREET,IA,1,8,8,3,3,8,5,2,3) # of groups=5,-0.0282438844967144,3.0,0,0,0,0,0,-3
+450271,MEDICAL CITY DECATUR,609 MEDICAL CENTER DRIVE,TX,1,8,9,6,4,10,5,2,3) # of groups=5,-0.3713690828852459,2.0,0,0,0,0,0,-6
+531312,CODY REGIONAL HEALTH,707 SHERIDAN AVENUE,WY,1,8,8,4,3,7,5,2,3) # of groups=5,-0.4074408235241901,2.0,0,0,0,0,0,-4
